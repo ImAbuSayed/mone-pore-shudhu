@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mone-pore-shudhu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Mone Pore Shudhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mone-pore-shudhu/) |
+| **Get License** | [Music Rights & Licensing for Mone Pore Shudhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mone-pore-shudhu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নীল কুয়াশায় হারানো আমার সেই চেনা সুর
+> খুঁজে ফিরে মন তোমার ছায়ায় বহুদূর
+> অচেনা তৃষ্ণায় জ্বলে ওঠে আজ এই রাত
+> অপেক্ষায় বসে আছি নিয়ে এই শূন্য হাত
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
