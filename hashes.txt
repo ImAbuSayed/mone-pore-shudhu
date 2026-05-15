@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mone Pore Shudhu
+
+This log tracks the cryptographic history and versioning for the song **Mone Pore Shudhu** (mone-pore-shudhu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T04:56:54.718409 | `v1` | `b8022f56be400dd7df57022c9dc32e3166fb08afcaf984d0d65d9f52563f68ee` | `7fa538aac663f5b07b01a145c54a37ce65c49dc27b5734339771f85d917a0b4e` | `2026-05-16_mone-pore-shudhu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

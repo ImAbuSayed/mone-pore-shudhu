@@ -1,0 +1,51 @@
+[Male]
+শুধু তোমাকেই চায় আমার এই ব্যাকুল হৃদয়
+তুমি ছাড়া এই জীবন যেন শুধুই সংশয়
+[Female]
+ভালোবাসার এই আগুন যেন আর নেভে না
+তুমি বিনা আমার এই মন কিছু বোঝে না
+Subproject commit 5918e480b4a529ec0a0ebd733162c852297dc14f
+import re
+
+with open("lyric-raw.txt", "r", encoding="utf-8") as f:
+    text = f.read()
+
+sections = [
+    "[Hook 1]",
+    "[Hook 2]",
+    "[Verse 1]",
+    "[Pre-Chorus 1]",
+    "[Chorus]",
+    "[Verse 2]",
+    "[Pre-Chorus 2]",
+    "[Chorus]",
+    "[Verse 3]",
+    "[Chorus]",
+    "[Bridge]",
+    "[Chorus]"
+]
+
+lines = text.strip().split('\n')
+current_section = None
+section_lines = []
+counts = {}
+
+for line in lines:
+    line = line.strip()
+    if not line:
+        continue
+    if line.startswith("[") and line.endswith("]"):
+        if line in sections:
+            current_section = line
+            counts[current_section] = counts.get(current_section, 0) + 1
+            section_lines = []
+        elif line in ["[Male]", "[Female]"]:
+            pass # Vocal tag
+        else:
+            print(f"Unknown tag: {line}")
+    else:
+        if current_section:
+            section_lines.append(line)
+            # print(f"{current_section}: {line}")
+
+print("Validation complete.")

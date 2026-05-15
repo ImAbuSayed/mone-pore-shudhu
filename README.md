@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mone-pore-shudhu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Mone Pore Shudhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mone-pore-shudhu/) |
+| **Get License** | [Commercial Licensing for Mone Pore Shudhu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mone-pore-shudhu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b8022f56be400dd7df57022c9dc32e3166fb08afcaf984d0d65d9f52563f68ee` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
